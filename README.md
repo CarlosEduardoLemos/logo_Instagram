@@ -1,7 +1,4 @@
 # Logo_Instagram
- 
-Claro! Aqui está um exemplo de texto que você pode usar para o README do seu repositório do GitHub:
-
 # Replica da Interface do Instagram
 
 Este projeto é uma replica da interface do Instagram usando principalmente CSS e um pouco de HTML para a inclusão da logo do Instagram.
