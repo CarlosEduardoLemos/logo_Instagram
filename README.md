@@ -6,7 +6,7 @@ Este é o README para o projeto Réplica da Logo do Instagram, uma reprodução 
 | -------------  | --- |
 | :sparkles: Nome        | **Réplica da Logo do Instagram**
 | :label: Tecnologias | HTML, CSS
-| :rocket: URL         | https://github.com/CarlosEduardoLemos/logo_Instagram
+| :rocket: URL         | https://carloseduardolemos.github.io/logo_Instagram/
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](https://raw.githubusercontent.com/CarlosEduardoLemos/logo_Instagram/main/imagem/Captura%20de%20tela%202023-06-02%20135848.png#vitrinedev)
