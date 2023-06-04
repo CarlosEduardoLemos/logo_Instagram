@@ -1,6 +1,6 @@
 # Réplica da Logo do Instagram
 
-Este é o README para o projeto Réplica da Logo do Instagram, uma reprodução da famosa logo do Instagram utilizando HTML e CSS.
+O projeto Réplica da Logo do Instagram, é uma reprodução da famosa logo do Instagram utilizando HTML e CSS.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
